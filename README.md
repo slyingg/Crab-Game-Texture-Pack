@@ -12,7 +12,6 @@ https://www.mediafire.com/file/nfozpkbn0vn1w6j/Crab_Game_Data.zip/file
 
 # Photos:
 ![image](https://github.com/slyingg/Crab-Game-Texture-Pack/assets/147253589/b495a546-0740-4bcf-929c-fd10e5e82ab0)
-![image](https://github.com/slyingg/Crab-Game-Texture-Pack/assets/147253589/d49ec7fc-03ab-4400-9fa3-c50063b9860c)
 ![image](https://github.com/slyingg/Crab-Game-Texture-Pack/assets/147253589/452f8a54-5777-4d30-8b7f-be74539db19d)
 ![image](https://github.com/slyingg/Crab-Game-Texture-Pack/assets/147253589/08f1374b-aef5-4561-bf14-780e3c81a9f9)
 ![image](https://github.com/slyingg/Crab-Game-Texture-Pack/assets/147253589/c6aef8b6-7d1c-43ab-a1b3-bf22a0b8e8e3)
